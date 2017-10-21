@@ -1,4 +1,4 @@
-#Ride Sharing - Pyber
+# Ride Sharing - Pyber
 
 
 Using a Hypothetical ride sharing company dataset, We analyze average fare and total number of rides by customers, as well total rides occurence in Urban, Suburban, and Rural communities.  We created bubble plot, and pie charts to visualize the data.
